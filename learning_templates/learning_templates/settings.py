@@ -25,7 +25,7 @@ SECRET_KEY = 'sihmnea6(t=#_@rt#y&uvhqkh%edk99#urjx)v(1cmf$#u5kv5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [mohnish.pythonanywhere.com]
+ALLOWED_HOSTS = ['mohnish.pythonanywhere.com',]
 
 
 # Application definition
